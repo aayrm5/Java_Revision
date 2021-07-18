@@ -1,0 +1,5 @@
+Welcome to the Geekbench Mobile Benchmark Chart. The data on this chart is gathered from user-submitted Geekbench 5 results from the Geekbench Browser.
+
+Geekbench 4 scores are calibrated against a baseline score of 1000 (which is the score of an Intel Core i3-8100). Higher scores are better, with double the score indicating double the performance.
+
+If you're curious how your smartphone, tablet, or computer compares, you can download Geekbench 5 and run it on your device to find out its score.

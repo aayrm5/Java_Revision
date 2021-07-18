@@ -1,0 +1,5 @@
+Welcome to the Geekbench Android Benchmark Chart. The data on this chart is gathered from user-submitted Geekbench 5 results from the Geekbench Browser. To make sure the results accurately reflect the average performance of each Android device, the chart only includes Android devices with at least five unique results in the Geekbench Browser.
+
+Geekbench 5 scores are calibrated against a baseline score of 1000 (which is the score of an Intel Core i3-8100). Higher scores are better, with double the score indicating double the performance.
+
+If you're curious how your Android smartphone or tablet compares, you can download Geekbench 5 and run it on your Android device to find out its score.
