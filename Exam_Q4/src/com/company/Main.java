@@ -6,6 +6,7 @@ import java.io.FileReader;
 public class Main {
 
     public static void main(String[] args) throws Exception {
+        System.out.println("Begin Program");
         Scanner inObj = new Scanner(System.in);
         System.out.println("Enter full path to the file to read the file1 : ");
         String fname1 = inObj.nextLine();
